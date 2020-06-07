@@ -1,0 +1,54 @@
+body {
+    background-color: #F6CEE3;
+}
+
+button {
+    width: 75px;
+    height: 25px;
+}
+
+output {
+    margin-left: 25px;
+}
+
+#sisalto {
+    width: 60%;
+    min-height: 500px;
+    overflow: auto;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.kortti {
+    float: left;
+    width: 75px;
+    height: 100px;
+    margin: 20px;
+    background-size: 75px 100px;
+    border-radius: 10px;
+}
+
+.sininen {
+    background-color: #00008B;
+}
+
+.punainen {
+    background-color: #DC143C;
+}
+
+.vihrea {
+    background-color: #228B22;
+}
+
+.oranssi {
+    background-color: #DAA520;
+}
+
+.violetti {
+    background-color: #9400D3;
+}
+
+.ruskea{
+    background-color: #800000;
+}
